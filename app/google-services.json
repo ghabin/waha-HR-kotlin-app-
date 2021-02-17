@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "941962819885",
+    "firebase_url": "https://waha-faa0d.firebaseio.com",
+    "project_id": "waha-faa0d",
+    "storage_bucket": "waha-faa0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941962819885:android:5cc878385603c01b0efba4",
+        "android_client_info": {
+          "package_name": "firebase.wahaoil.com.ly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941962819885-tph574bflcsj60n6sntvvddkpfuq3i2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebase.wahaoil.com.ly",
+            "certificate_hash": "85bdd7b1f89fa6affe64d5ab6597752fab59c4cf"
+          }
+        },
+        {
+          "client_id": "941962819885-lv371oicqocdbqrbo0mi92v2ehaiau4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBga4nqB61MyLf38UmdGhyJwWNRdxvjzDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941962819885-lv371oicqocdbqrbo0mi92v2ehaiau4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

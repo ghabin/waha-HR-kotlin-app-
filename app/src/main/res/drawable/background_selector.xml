@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    This first two lines to change color when item pressed-->
+<!--    <item android:drawable="@color/gray"-->
+<!--        android:state_pressed="true">-->
+<!--          -->
+<!--    </item>-->
+    <item>
+        <shape android:shape="rectangle">
+            <stroke android:width="2dp" android:color="@color/yellow">
+            </stroke>
+
+            <corners android:radius="15dp">
+            </corners>
+        </shape>
+    </item>
+
+      </selector>

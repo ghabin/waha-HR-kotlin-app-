@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="tv_height">60dp</dimen>
+    <dimen name="tv_width">100dp</dimen>
+    <dimen name="tv_textSize">22sp</dimen>
+    <dimen name="tv2_textSize">20sp</dimen>
+    <dimen name="editText_height">60dp</dimen>
+    <dimen name="layout_marginBottom">10dp</dimen>
+
+</resources>
